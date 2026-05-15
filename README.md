@@ -48,6 +48,26 @@ End-to-end secure authentication utilizing Twilio for OTP dispatch, managed tigh
 
 ---
 
+## 🎨 Design System & UI Experience
+
+SafePulse isn't just functionally robust; it is crafted with a highly premium, modern, and accessible design system optimized for emergency scenarios where clarity is paramount.
+
+<div align="center">
+  <img src="docs/images/typography.png" width="48%" alt="SafePulse Typography">
+  &nbsp;&nbsp;
+  <img src="docs/images/palette.png" width="48%" alt="SafePulse Color Palette">
+</div>
+
+### App Previews
+
+<div align="center">
+  <img src="docs/images/sos_screen.png" width="48%" alt="SafePulse SOS Screen">
+  &nbsp;&nbsp;
+  <img src="docs/images/circle_screen.png" width="48%" alt="SafePulse Safety Circle Screen">
+</div>
+
+---
+
 ## 🏗️ Codebase Deep-Dive
 
 The SafePulse repository is partitioned into four distinct services, each handling a specialized domain.
